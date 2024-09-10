@@ -116,7 +116,7 @@ client_secret: 7bd46f8f-c296-416d-a13d-dc81e68d0830
 With these credentials, using the `client_credentials` flow (which effectively means just pass the credentials above in the request) obtain an authentication token from keycloak and add is as `Authorization: Bearer` header
 
 ## Documentation Resources
-[Swagger Ninja API](mobility.api.opendatahub.com)  
+[Swagger Ninja API](https://mobility.api.opendatahub.com)  
 [Ninja API repo](https://github.com/noi-techpark/it.bz.opendatahub.api.mobility-ninja)  
 [BDP API swagger](https://swagger.opendatahub.com/?url=https://raw.githubusercontent.com/noi-techpark/bdp-core/main/openapi3.yml)  
 [BDP writer repo](https://github.com/noi-techpark/bdp-core)  
